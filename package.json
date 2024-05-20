@@ -32,7 +32,7 @@
   "types": "types/vue3-tour.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexandreDavid/vue3-tour.git"
+    "url": "git+https://github.com/bippan1407/vue3-tour.git"
   },
   "keywords": [
     "vue",
